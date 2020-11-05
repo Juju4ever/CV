@@ -1,7 +1,6 @@
 h1{
 	font-family: 'MonarchaW01-Book'; regular; }
 
-
 .image_bulle{
 	width: 68.5px;
 	height:53.75px;
@@ -13,7 +12,7 @@ h1{
 }
 
 .image_contact{
-	width: 68.5px
+	width: 68.5px;
 	height: 53.75px;
 }
 
@@ -41,3 +40,56 @@ h1{
 	width: 92px;
 	height: 74px
 }
+.image_education{
+	width: 84px;
+	height: 71px;
+}
+
+.image_formation_en_cours{
+	width: 94px;
+	height: 72px;
+}
+
+
+.image_expériences{
+	width: 79px;
+	height: 66.7px;
+}
+
+.image_passions{
+	width: 79px;
+	height: 80px;
+}
+
+.éléments1{
+	width: 43.25px;
+	height: 47.5px;
+
+}
+
+.éléments2{
+	width: 48px;
+	height: 34.9px;
+}
+
+.éléments3{
+	width: 37.6px;
+	height: 44.8px;
+}
+
+.éléments4{
+	width: 48.9px;
+	height: 35.35px;
+}
+
+.éléments5{
+	width: 43.2px;
+	height: 33.6px;
+}
+
+
+
+
+
+
+
