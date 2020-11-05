@@ -1,3 +1,43 @@
 h1{
-	font-family: 'MonarchaW01-Book'; regular; 
+	font-family: 'MonarchaW01-Book'; regular; }
+
+
+.image_bulle{
+	width: 68.5px;
+	height:53.75px;
+}
+
+.images_langues{
+	width: 68.5px;
+	height: 53.75px
+}
+
+.image_contact{
+	width: 68.5px
+	height: 53.75px;
+}
+
+.image_réseaux{
+	width: 68.5px;
+	height: 53.75px
+}
+
+.images_langues{
+	width: 30px;
+	height: 30px
+}
+
+.image_compétences{
+	width: 97px;
+	height: 105px
+}
+
+.composants_compétences{
+	width: 152.6px;
+	height: 25.8px;
+}
+
+.image_savoir_faire{
+	width: 92px;
+	height: 74px
 }
