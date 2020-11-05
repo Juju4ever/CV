@@ -87,6 +87,9 @@ h1{
 	height: 33.6px;
 }
 
+body{
+	display: flex;
+}
 
 
 
