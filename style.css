@@ -87,12 +87,24 @@ h1{
 	height: 33.6px;
 }
 
+
 body{
 	display: flex;
 }
 
+.texte_langues{
+	display: flex;
+	flex-flow:column-nowrap;
+	
+}
+.texte_réseau{
+	display: flex;
+	flex-flow:column-nowrap;
+	
 
 
+.image_qualité
+}
 
 
 
