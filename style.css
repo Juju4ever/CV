@@ -106,5 +106,28 @@ body{
 .image_qualité
 }
 
+.Qualimage{
+	display: flex;
+	justify-content: flex-start;
+	align-items:center;
+}
 
+#baseline{
+	position: relative;
+	top: -80px;
+}
 
+.photomoi{
+	width: 100px;
+}
+.nom {
+	margin-bottom: -100px;
+	width: 200px; 
+}
+
+li{
+	 list-style-type: none;
+}
+.partie_de_gauche{
+	background-color: #FAFAFA
+}
