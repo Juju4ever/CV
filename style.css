@@ -1,5 +1,16 @@
 h1{
-	font-family: 'MonarchaW01-Book'; regular; }
+	font-family: 'MonarchaW01-Book'; regular; 
+}
+
+p{
+	font-family: 'MonarchaW01-Book'; regular; 
+
+}
+
+.image_qualité{
+	width: 70px;
+	height: 80px;
+}
 
 .image_bulle{
 	width: 68.5px;
@@ -27,8 +38,8 @@ h1{
 }
 
 .image_compétences{
-	width: 97px;
-	height: 105px
+	width: 64px;
+	height: 72px
 }
 
 .composants_compétences{
@@ -37,28 +48,28 @@ h1{
 }
 
 .image_savoir_faire{
-	width: 92px;
-	height: 74px
+	width: 78px;
+	height: 60px
 }
 .image_education{
-	width: 84px;
-	height: 71px;
+	width: 70px;
+	height: 57px;
 }
 
 .image_formation_en_cours{
-	width: 94px;
-	height: 72px;
+	width: 80px;
+	height: 58px;
 }
 
 
 .image_expériences{
-	width: 79px;
-	height: 66.7px;
+	width: 59px;
+	height: 46.7px;
 }
 
 .image_passions{
-	width: 79px;
-	height: 80px;
+	width: 59px;
+	height: 60px;
 }
 
 .éléments1{
@@ -100,34 +111,159 @@ body{
 .texte_réseau{
 	display: flex;
 	flex-flow:column-nowrap;
-	
-
-
-.image_qualité
-}
+	}
 
 .Qualimage{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	
+}
+
+#baseline{
+	position: relative;
+	top: -150px;
+	justify-content: center;
+
+}
+
+.Photo_moi{
+	width: 300px;
+	height: 328px;
+}
+
+
+.nom {
+	margin-bottom: -100px;
+	width: 300px; 
+	justify-content: center;
+}
+
+
+
+.Langueimage{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.Contactimage{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.Réseauximage{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.Compétencesimage{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.Savoirfaireimage{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.Educationimage{
 	display: flex;
 	justify-content: flex-start;
 	align-items:center;
 }
 
-#baseline{
-	position: relative;
-	top: -80px;
+.Formationimage{
+	display: flex;
+	justify-content: flex-start;
+	align-items:center;
 }
 
-.photomoi{
-	width: 100px;
-}
-.nom {
-	margin-bottom: -100px;
-	width: 200px; 
+.Expérienceimage{
+	display: flex;
+	justify-content: flex-start;
+	align-items:center;
 }
 
-li{
+.Passionsimage{
+	display: flex;
+	justify-content: flex-start;
+	align-items:center;
+}
+
+
+
+.comp_et_savoir-faire{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.photoshop1{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.illustrator1{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.indesign1{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.aftereffect1{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.lightroom1{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+#liste_sf{
 	 list-style-type: none;
 }
-.partie_de_gauche{
-	background-color: #FAFAFA
+
+.texte_qualité{
+	display: flex;
+	justify-content: center;
 }
+
+.texte_langues{
+	display: flex;
+	justify-content: center;
+}
+
+.texte_1{
+	display: flex;
+	justify-content: center;
+}
+
+.texte_réseau{
+	display: flex;
+	justify-content: center;
+}
+
+ol{
+	 list-style-type: none;
+}
+
+
+h3{
+	display: flex;
+	justify-content: center;
+}
+
+.partie_de_gauche{
+	background-color: #f0f0f0
+}
+
+
+
